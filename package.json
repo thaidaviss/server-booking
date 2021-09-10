@@ -1,7 +1,8 @@
 {
   "devDependencies": {
     "json-server": "^0.16.3",
-    "json-server-auth": "^2.1.0"
+    "json-server-auth": "^2.1.0",
+    "query-string": "^7.0.1"
   },
   "scripts": {
     "server": "node ./server/main.js"

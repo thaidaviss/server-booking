@@ -19,5 +19,8 @@
     "url": "https://github.com/thaidaviss/server-booking/issues"
   },
   "homepage": "https://github.com/thaidaviss/server-booking#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
 }

@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "json-server": "^0.16.3",
+    "json-server-auth": "^2.1.0"
+  },
+  "scripts": {
+    "server": "node ./server/main.js"
+  },
+  "name": "booking-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thaidaviss/server-booking.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thaidaviss/server-booking/issues"
+  },
+  "homepage": "https://github.com/thaidaviss/server-booking#readme",
+  "description": ""
+}
